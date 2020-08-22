@@ -1,1 +1,1 @@
-# MLFaciesClassification
+# FaciesClassificationML
